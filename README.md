@@ -40,6 +40,7 @@ Computer Vision is an interdisciplinary scientific field that deals with how com
 #Day-4
 
   Object Tracking based on color using OpenCV
+  
     --- Specific Color's HSV value estimation, by tuning for each object
     
   
@@ -57,6 +58,7 @@ Computer Vision is an interdisciplinary scientific field that deals with how com
 #Day-6
 
   Face Emotion recognition
+  
     --- Emotion recognition application design using Emotion recognition library
     
     
