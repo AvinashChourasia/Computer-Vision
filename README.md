@@ -48,11 +48,11 @@ Computer Vision is an interdisciplinary scientific field that deals with how com
 
   Face recognition using OpenCV
   
-   i.   How to use Android mobile camera for our application using IPWebCam app
+    i.   How to use Android mobile camera for our application using IPWebCam app
    
-   ii.  How to create dataset for face recognition
+    ii.  How to create dataset for face recognition
    
-   iii. Face recognition application design using Python programming with OpenCV
+    iii. Face recognition application design using Python programming with OpenCV
    
    
 #Day-6
